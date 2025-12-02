@@ -29,3 +29,4 @@ package:
     paths:
       - dist/
     expire_in: 1 week
+
